@@ -23,5 +23,9 @@ This VBA project for Excel allows users to generate various shades of colors bas
 6. Remember to enable macros in your Excel settings to allow the macro to function correctly.
 
 ## Screenshots
-(Here you can place screenshots or GIFs demonstrating the project in action)
 
+![](https://github.com/Peciak95/VBA_Color_Maker/blob/main/Screenshots/1.png)
+![](https://github.com/Peciak95/VBA_Color_Maker/blob/main/Screenshots/2.png)
+![](https://github.com/Peciak95/VBA_Color_Maker/blob/main/Screenshots/3.png)
+![](https://github.com/Peciak95/VBA_Color_Maker/blob/main/Screenshots/4.png)
+![](https://github.com/Peciak95/VBA_Color_Maker/blob/main/Screenshots/5.png)
